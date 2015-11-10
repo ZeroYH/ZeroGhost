@@ -1,2 +1,2 @@
 # ZeroGhost
-easy-zero
+A simple music player
