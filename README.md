@@ -1,0 +1,2 @@
+# ZeroGhost
+easy-zero
