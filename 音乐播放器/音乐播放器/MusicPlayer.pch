@@ -1,0 +1,21 @@
+//
+//  MusicPlayer.pch
+//  音乐播放器
+//
+//  Created by lanou3g on 15/11/4.
+//  Copyright © 2015年 yrh.com. All rights reserved.
+//
+
+#ifndef MusicPlayer_pch
+#define MusicPlayer_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "URLS.h"
+
+#import "UIImageView+WebCache.h"// pch 多用于导入第三方头文件，没有依赖关系
+
+#import "MobClick.h"
+
+#endif /* MusicPlayer_pch */
